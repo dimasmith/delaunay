@@ -1,6 +1,5 @@
 package delaunay;
 
-import lombok.Data;
 import lombok.Value;
 
 @Value
