@@ -5,7 +5,7 @@ import lombok.Value;
 @Value
 public class Triangle {
 
-    private final Edge edgeA;
-    private final Edge edgeB;
-    private final Edge edgeC;
+    private final Point pointA;
+    private final Point pointB;
+    private final Point pointC;
 }
